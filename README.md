@@ -1,6 +1,6 @@
 # Reading Room Interface Developer Exercises
 
-The following are a series of exercises to show us your knowledge of HTML, CSS and JavaScript.
+The following are a series of exercises to test your knowledge of HTML, CSS and JavaScript.
 
 ## Exercise 1 - Header and Navigation Markup and Styling
 
