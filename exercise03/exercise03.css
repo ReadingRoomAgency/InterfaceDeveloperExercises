@@ -1,0 +1,35 @@
+/* Modify this file as required */
+
+.RevealCard {
+  font-family: sans-serif;
+}
+
+.RevealCard-header {
+  background: #000;
+  border-radius: 4px 4px 0 0;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0.5em;
+  position: relative;
+}
+
+.RevealCard-header::after {
+  border: 1px solid #fff;
+  content: "-";
+  height: 1.15em;
+  line-height: 1em;
+  position: absolute;
+  right: 0.5em;
+  text-align: center;
+  width: 1.15em;
+}
+
+.RevealCard-list {
+  border: 1px solid #000;
+  border-top: none;
+  margin: 0 0 2em 0;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
